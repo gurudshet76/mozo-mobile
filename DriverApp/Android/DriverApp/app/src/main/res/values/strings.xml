@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Driver App</string>
+    <string name="sign_up">Create Account</string>
+	<string name="start_pickup">Start Trip</string>
+	<string name="end_pickup">End Trip</string>
+    <string name="sign_in">Login</string>
+    <string name="signing_in">Signing In</string>
+    <string name="register">Register</string>
+    <string name="action_settings">Settings</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_id">Email ID</string>
+    <string name="mobile_no">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+	<string name="forgot_password">Forgot Password?</string>
+	<string name="home">Home</string>
+	<string name="map">Trip</string>
+	<string name="speed">60 km/hr</string>
+	<string name="distance">20 km</string>
+	<string name="time">01:30</string>
+	<string name="services_list">Service Centres</string>
+	<string name="book_now">Book Now</string>
+	<string name="book_later">Book Later</string>
+	<string name="book_service">Book A Service</string>
+	<string name="repair">Repair Service</string>
+	<string name="car_model">Car Model</string>
+	<string name="reg_no">Registration Number</string>
+	<string name="dop">Date of Purchase</string>
+	<string name="tot_km">Total KM Driven</string>
+	<string name="srv_centre">Service Centre</string>
+	<string name="create">Create</string>
+	<string name="car_profile">Car Profile</string>
+	<string name="promo_code">Promotion Code</string>
+	<string name="confirm_booking">Confirm Booking</string>
+	<string name="apply">Apply</string>
+	<string name="service_cost">Service Cost</string>
+	<string name="tmp_value">Rs: 3200</string>
+	<string name="car_service">Car Service</string>
+	<string name="enter_name">Please enter your Name</string>
+	<string name="enter_email">Please enter your Email</string>
+	<string name="enter_number">Please enter your Phone Number</string>
+	<string name="enter_password">Please enter your Password</string>
+	<string name="confirm_your_password">Please confirm your password</string>
+	<string name="capture_photo">Capture Photos</string>
+	<string name="view_photos">View Photos</string>
+	<string name="map_distance">Distance</string>
+	<string name="map_duration">Duration</string>
+	<string name="incoming_job">Incoming Job</string>
+	<string name="no_job_assigned">No Jobs Assigned</string>
+	<string name="pickup_drop_title">Pickup/Drop</string>
+	<string name="billing_details">Billing details</string>
+	<string name="Carmozo">Carmozo</string>
+	<string name="profile">Profile</string>
+	<string name="sign_in_but1">Sign In</string>
+	<string name="assigned_jobs">Incoming jobs</string>
+	<string name="add_photos">Add photos</string>
+	<string name="upload_photos">Upload photos</string>
+	<string name="account_summary">Account summary</string>
+	<string name="pickup_point">Pickup point:</string>
+	<string name="drop_point">Drop point:</string>
+	<string name="call_owner">Call</string>
+	<string name="upload_invoice">Upload invoice</string>
+	<string name="notifications">Notifications</string>
+	<string name="help">Help</string>
+	<string name="logout">Logout</string>
+	<string name="invoice">Invoice</string>
+
+	<!-- Traccar string -->
+	<string name="settings_status_off_summary">Service stopped</string>
+	<string name="settings_status_on_summary">Service running</string>
+	<string name="status_service_create">Service created</string>
+	<string name="status_service_destroy">Service destroyed</string>
+	<string name="status_send_fail">Send failed</string>
+	<string name="status_location_update">Location update</string>
+	<string name="status_connectivity_change">Connectivity change</string>
+	<string name="menu_clear">Clear</string>
+
+	<!-- Error strings -->
+	<string name="error_login_status">Invalid Mobile No and password</string>
+	<string name="error_job_selection">Please select valid incoming jobs</string>
+
+	<!-- Information strings -->
+
+
+	<!-- Nav Drawer Menu Items -->
+	<string-array name="nav_drawer_items">
+		<item>@string/invoice</item>
+		<item>@string/profile</item>
+		<item>@string/account_summary</item>
+		<item>@string/notifications</item>
+		<item>@string/help</item>
+		<item>@string/logout</item>
+	</string-array>
+
+	<!-- Nav Drawer List Item Icons -->
+	<!-- Keep them in order as the titles are in -->
+	<array name="nav_drawer_icons">
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+	</array>
+
+	<!-- Content Description -->
+	<string name="desc_list_item_icon">Item Icon</string>
+
+</resources>
